@@ -1,0 +1,3 @@
+com\example\thymeleaf\controller\DoctorController.class
+com\example\thymeleaf\ThymeleafApplication.class
+com\example\thymeleaf\model\Doctor.class
